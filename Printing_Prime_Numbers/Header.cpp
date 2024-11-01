@@ -31,7 +31,7 @@ void printPrimeNumber(int lowerNum, int upperNum) {
 
 
 
-// Function definition (implementation of greet)
+
 
 
 
